@@ -5,8 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/batann/plymouth.lclinux/logo.png">
-    <img src="logo.png" alt="Logo" width="484" height="200">
+  <a href="https://github.com/batann/plymouth.lclinux/icon.png">
+    <img src="icon.png" alt="Logo" width="484" height="200">
   </a>
 
 <h3 align="center">LC-Linux</h3>
