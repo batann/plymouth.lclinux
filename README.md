@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/batann/plymouth.lclinux/icon.png">
-    <img src="icon.png" alt="Logo" width="484" height="200">
+    <img src="icon.png" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">LC-Linux</h3>
